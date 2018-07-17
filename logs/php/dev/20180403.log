@@ -1,0 +1,10 @@
+[02-Apr-2018 23:02:29 America/Chicago] PHP Error:  Error inside try in C:\Users\drebo\Documents\sites\errors\index.php on line 21
+[02-Apr-2018 23:02:29 America/Chicago] PHP Stack trace:
+[02-Apr-2018 23:02:29 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[02-Apr-2018 23:04:22 America/Chicago] PHP Error:  Error inside try in C:\Users\drebo\Documents\sites\errors\index.php on line 21
+[02-Apr-2018 23:04:22 America/Chicago] PHP Stack trace:
+[02-Apr-2018 23:04:22 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[02-Apr-2018 23:05:18 America/Chicago] PHP Error:  Error outside try in C:\Users\drebo\Documents\sites\errors\index.php on line 27
+[02-Apr-2018 23:05:18 America/Chicago] PHP Stack trace:
+[02-Apr-2018 23:05:18 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[02-Apr-2018 23:05:18 America/Chicago] Error: exception_handlerError outside try

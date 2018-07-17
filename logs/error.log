@@ -1,0 +1,1 @@
+[Thu May 10 21:58:42.403812 2018] [php7:error] [pid 17] [client 172.20.0.1:41064] script '/var/www/html/public/files.getFile.php' not found or unable to stat

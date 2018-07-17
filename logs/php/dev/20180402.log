@@ -1,0 +1,18 @@
+[01-Apr-2018 22:54:42 America/Chicago] PHP Error:  Error inside try in C:\Users\drebo\Documents\sites\errors\index.php on line 10
+[01-Apr-2018 22:54:42 America/Chicago] PHP Stack trace:
+[01-Apr-2018 22:54:42 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[01-Apr-2018 22:54:42 America/Chicago] PHP Error:  Error outside try in C:\Users\drebo\Documents\sites\errors\index.php on line 16
+[01-Apr-2018 22:54:42 America/Chicago] PHP Stack trace:
+[01-Apr-2018 22:54:42 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[01-Apr-2018 22:54:42 America/Chicago] Error: exception_handlerError outside try
+[01-Apr-2018 23:06:09 America/Chicago] PHP Error:  Call to undefined function fac() in C:\Users\drebo\Documents\sites\errors\index.php on line 13
+[01-Apr-2018 23:06:09 America/Chicago] PHP Stack trace:
+[01-Apr-2018 23:06:09 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[01-Apr-2018 23:06:09 America/Chicago] PHP Error:  Error outside try in C:\Users\drebo\Documents\sites\errors\index.php on line 28
+[01-Apr-2018 23:06:09 America/Chicago] PHP Stack trace:
+[01-Apr-2018 23:06:09 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[01-Apr-2018 23:06:09 America/Chicago] Error: exception_handlerError outside try
+[01-Apr-2018 23:07:19 America/Chicago] PHP Error:  Error outside try in C:\Users\drebo\Documents\sites\errors\index.php on line 27
+[01-Apr-2018 23:07:19 America/Chicago] PHP Stack trace:
+[01-Apr-2018 23:07:19 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\index.php:0
+[01-Apr-2018 23:07:19 America/Chicago] Error: exception_handlerError outside try

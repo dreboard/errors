@@ -1,0 +1,26 @@
+[Wed Mar 21 01:40:55.950788 2018] [php7:notice] [pid 16] [client 172.19.0.1:55330] /var/www/html/src/ini.php1521596455
+[Wed Mar 21 01:44:37.340006 2018] [php7:notice] [pid 17] [client 172.19.0.1:55332] /var/www/html/src/ini.php1521596677
+[Wed Mar 21 01:45:51.060198 2018] [php7:notice] [pid 18] [client 172.19.0.1:55334] /var/www/html/src/ini.php1521596751
+[Wed Mar 21 01:45:54.786616 2018] [php7:notice] [pid 18] [client 172.19.0.1:55334] /var/www/html/src/ini.php1521596754, referer: http://localhost:8088/
+[Wed Mar 21 01:48:05.944403 2018] [php7:notice] [pid 19] [client 172.19.0.1:55336] /var/www/html/src/ini.php1521596885, referer: http://localhost:8088/
+[Wed Mar 21 01:48:08.719538 2018] [php7:notice] [pid 19] [client 172.19.0.1:55336] /var/www/html/src/ini.php1521596888, referer: http://localhost:8088/
+[Wed Mar 21 01:54:05.916174 2018] [php7:notice] [pid 20] [client 172.19.0.1:55338] /var/www/html/src/ini.php1521597245, referer: http://localhost:8088/
+[Wed Mar 21 02:15:36.779257 2018] [core:alert] [pid 16] [client 172.19.0.1:55390] /var/www/html/public/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Wed Mar 21 02:15:44.300880 2018] [core:alert] [pid 17] [client 172.19.0.1:55392] /var/www/html/public/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:08:52.480254 2018] [core:alert] [pid 69] [client 172.19.0.1:55518] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:08:59.895101 2018] [core:alert] [pid 67] [client 172.19.0.1:55520] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:02.724736 2018] [core:alert] [pid 80] [client 172.19.0.1:55522] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:03.839989 2018] [core:alert] [pid 73] [client 172.19.0.1:55524] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:04.154573 2018] [core:alert] [pid 71] [client 172.19.0.1:55526] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:04.340650 2018] [core:alert] [pid 74] [client 172.19.0.1:55528] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:55.867487 2018] [core:alert] [pid 69] [client 172.19.0.1:55532] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:57.906750 2018] [core:alert] [pid 67] [client 172.19.0.1:55534] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:09:58.738553 2018] [core:alert] [pid 80] [client 172.19.0.1:55536] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:10:29.345327 2018] [core:alert] [pid 15] [client 172.19.0.1:55538] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:10:30.214952 2018] [core:alert] [pid 16] [client 172.19.0.1:55540] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:10:30.756988 2018] [core:alert] [pid 17] [client 172.19.0.1:55542] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:10:30.986716 2018] [core:alert] [pid 18] [client 172.19.0.1:55544] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:10:31.174886 2018] [core:alert] [pid 19] [client 172.19.0.1:55546] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:10:31.382281 2018] [core:alert] [pid 15] [client 172.19.0.1:55548] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Mar 25 22:16:04.073388 2018] [core:alert] [pid 15] [client 172.19.0.1:55558] /var/www/html/public/.htaccess: Invalid command 'Header', perhaps misspelled or defined by a module not included in the server configuration
+[Wed Apr 25 02:38:28.457177 2018] [php7:error] [pid 72] [client 172.20.0.1:42112] script '/var/www/html/public/uu.php' not found or unable to stat

@@ -1,0 +1,17 @@
+[10-May-2018 14:18:10 America/Chicago] message
+[10-May-2018 14:38:17 America/Chicago] error_handler Array to string conversion in /var/www/html/public/inc/head.php:22
+[10-May-2018 14:38:17 America/Chicago] ErrorException: exception_handlerArray to string conversion
+[10-May-2018 14:38:17 America/Chicago] error_handler Cannot modify header information - headers already sent by (output started at /var/www/html/config/settings.php:15) in /var/www/html/config/settings.php:16
+[10-May-2018 14:38:17 America/Chicago] PHP Fatal error:  Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /var/www/html/config/settings.php:15) in /var/www/html/config/settings.php:16
+Stack trace:
+#0 [internal function]: error_handler(2, 'Cannot modify h...', '/var/www/html/c...', 16, Array)
+#1 /var/www/html/config/settings.php(16): header('Location: 500.h...')
+#2 [internal function]: exception_handler(Object(ErrorException))
+#3 {main}
+  thrown in /var/www/html/config/settings.php on line 16
+[10-May-2018 14:38:17 America/Chicago] shutdown_function 1
+[10-May-2018 14:40:37 America/Chicago] error_handler Array to string conversion in /var/www/html/public/inc/head.php:22
+[10-May-2018 17:00:30 America/Chicago] error_handler Array to string conversion in /var/www/html/public/inc/head.php:22
+[10-May-2018 17:01:04 America/Chicago] error_handler Array to string conversion in /var/www/html/public/inc/head.php:22
+[10-May-2018 17:07:51 America/Chicago] error_handler Array to string conversion in /var/www/html/public/inc/head.php:22
+[10-May-2018 18:16:25 America/Chicago] error_handler Array to string conversion in /var/www/html/public/inc/head.php:22

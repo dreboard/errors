@@ -1,0 +1,101 @@
+[03-Apr-2018 21:57:34 America/Chicago] PHP Error:  Class 'Debug' not found in C:\Users\drebo\Documents\sites\errors\public\inc\head.php on line 19
+[03-Apr-2018 21:57:34 America/Chicago] PHP Stack trace:
+[03-Apr-2018 21:57:34 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 21:57:34 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 21:57:34 America/Chicago] Error: exception_handlerClass 'Debug' not found
+[03-Apr-2018 22:01:54 America/Chicago] error_handler require(C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:66
+[03-Apr-2018 22:01:54 America/Chicago] PHP Warning:  Uncaught ErrorException: require(C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:66
+Stack trace:
+#0 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(66): error_handler(2, 'require(C:\\User...', 'C:\\Users\\drebo\\...', 66, Array)
+#1 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(66): require()
+#2 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(56): composerRequireb4d7791401ba7416ca4279b34130bac5('cadc9c721433675...', 'C:\\Users\\drebo\\...')
+#3 C:\Users\drebo\Documents\sites\errors\vendor\autoload.php(7): ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader()
+#4 C:\Users\drebo\Documents\sites\errors\config\config.php(5): require_once('C:\\Users\\drebo\\...')
+#5 C:\Users\drebo\Documents\sites\errors\public\inc\head.php(2): require_once('C:\\Users\\drebo\\...')
+#6 C:\Users\d in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php on line 66
+[03-Apr-2018 22:01:54 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:01:54 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:01:54 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 22:01:54 America/Chicago] PHP   3. require_once() C:\Users\drebo\Documents\sites\errors\public\inc\head.php:2
+[03-Apr-2018 22:01:54 America/Chicago] PHP   4. require_once() C:\Users\drebo\Documents\sites\errors\config\config.php:5
+[03-Apr-2018 22:01:54 America/Chicago] PHP   5. ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader() C:\Users\drebo\Documents\sites\errors\vendor\autoload.php:7
+[03-Apr-2018 22:01:54 America/Chicago] PHP   6. composerRequireb4d7791401ba7416ca4279b34130bac5($fileIdentifier = 'cadc9c721433675b17f426e6ddd5daa4', $file = 'C:\\Users\\drebo\\Documents\\sites\\errors\\vendor\\composer/../../app/functions.php') C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:56
+[03-Apr-2018 22:01:54 America/Chicago] PHP Fatal error:  composerRequireb4d7791401ba7416ca4279b34130bac5(): Failed opening required 'C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php' (include_path='.;C:\php\pear') in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php on line 66
+[03-Apr-2018 22:01:54 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:01:54 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:01:54 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 22:01:54 America/Chicago] PHP   3. require_once() C:\Users\drebo\Documents\sites\errors\public\inc\head.php:2
+[03-Apr-2018 22:01:54 America/Chicago] PHP   4. require_once() C:\Users\drebo\Documents\sites\errors\config\config.php:5
+[03-Apr-2018 22:01:54 America/Chicago] PHP   5. ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader() C:\Users\drebo\Documents\sites\errors\vendor\autoload.php:7
+[03-Apr-2018 22:01:54 America/Chicago] PHP   6. composerRequireb4d7791401ba7416ca4279b34130bac5($fileIdentifier = 'cadc9c721433675b17f426e6ddd5daa4', $file = 'C:\\Users\\drebo\\Documents\\sites\\errors\\vendor\\composer/../../app/functions.php') C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:56
+[03-Apr-2018 22:03:26 America/Chicago] error_handler require(C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:66
+[03-Apr-2018 22:03:26 America/Chicago] PHP Warning:  Uncaught ErrorException: require(C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:66
+Stack trace:
+#0 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(66): error_handler(2, 'require(C:\\User...', 'C:\\Users\\drebo\\...', 66, Array)
+#1 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(66): require()
+#2 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(56): composerRequireb4d7791401ba7416ca4279b34130bac5('cadc9c721433675...', 'C:\\Users\\drebo\\...')
+#3 C:\Users\drebo\Documents\sites\errors\vendor\autoload.php(7): ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader()
+#4 C:\Users\drebo\Documents\sites\errors\config\config.php(5): require_once('C:\\Users\\drebo\\...')
+#5 C:\Users\drebo\Documents\sites\errors\public\inc\head.php(3): require_once('C:\\Users\\drebo\\...')
+#6 C:\Users\d in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php on line 66
+[03-Apr-2018 22:03:26 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:03:26 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:03:26 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 22:03:26 America/Chicago] PHP   3. require_once() C:\Users\drebo\Documents\sites\errors\public\inc\head.php:3
+[03-Apr-2018 22:03:26 America/Chicago] PHP   4. require_once() C:\Users\drebo\Documents\sites\errors\config\config.php:5
+[03-Apr-2018 22:03:26 America/Chicago] PHP   5. ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader() C:\Users\drebo\Documents\sites\errors\vendor\autoload.php:7
+[03-Apr-2018 22:03:26 America/Chicago] PHP   6. composerRequireb4d7791401ba7416ca4279b34130bac5($fileIdentifier = 'cadc9c721433675b17f426e6ddd5daa4', $file = 'C:\\Users\\drebo\\Documents\\sites\\errors\\vendor\\composer/../../app/functions.php') C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:56
+[03-Apr-2018 22:03:26 America/Chicago] PHP Fatal error:  composerRequireb4d7791401ba7416ca4279b34130bac5(): Failed opening required 'C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php' (include_path='.;C:\php\pear') in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php on line 66
+[03-Apr-2018 22:03:26 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:03:26 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:03:26 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 22:03:26 America/Chicago] PHP   3. require_once() C:\Users\drebo\Documents\sites\errors\public\inc\head.php:3
+[03-Apr-2018 22:03:26 America/Chicago] PHP   4. require_once() C:\Users\drebo\Documents\sites\errors\config\config.php:5
+[03-Apr-2018 22:03:26 America/Chicago] PHP   5. ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader() C:\Users\drebo\Documents\sites\errors\vendor\autoload.php:7
+[03-Apr-2018 22:03:26 America/Chicago] PHP   6. composerRequireb4d7791401ba7416ca4279b34130bac5($fileIdentifier = 'cadc9c721433675b17f426e6ddd5daa4', $file = 'C:\\Users\\drebo\\Documents\\sites\\errors\\vendor\\composer/../../app/functions.php') C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:56
+[03-Apr-2018 22:03:59 America/Chicago] error_handler require(C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:66
+[03-Apr-2018 22:03:59 America/Chicago] PHP Warning:  Uncaught ErrorException: require(C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:66
+Stack trace:
+#0 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(66): error_handler(2, 'require(C:\\User...', 'C:\\Users\\drebo\\...', 66, Array)
+#1 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(66): require()
+#2 C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php(56): composerRequireb4d7791401ba7416ca4279b34130bac5('cadc9c721433675...', 'C:\\Users\\drebo\\...')
+#3 C:\Users\drebo\Documents\sites\errors\vendor\autoload.php(7): ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader()
+#4 C:\Users\drebo\Documents\sites\errors\config\config.php(5): require_once('C:\\Users\\drebo\\...')
+#5 C:\Users\drebo\Documents\sites\errors\public\inc\head.php(3): require_once('C:\\Users\\drebo\\...')
+#6 C:\Users\d in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php on line 66
+[03-Apr-2018 22:03:59 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:03:59 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:03:59 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 22:03:59 America/Chicago] PHP   3. require_once() C:\Users\drebo\Documents\sites\errors\public\inc\head.php:3
+[03-Apr-2018 22:03:59 America/Chicago] PHP   4. require_once() C:\Users\drebo\Documents\sites\errors\config\config.php:5
+[03-Apr-2018 22:03:59 America/Chicago] PHP   5. ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader() C:\Users\drebo\Documents\sites\errors\vendor\autoload.php:7
+[03-Apr-2018 22:03:59 America/Chicago] PHP   6. composerRequireb4d7791401ba7416ca4279b34130bac5($fileIdentifier = 'cadc9c721433675b17f426e6ddd5daa4', $file = 'C:\\Users\\drebo\\Documents\\sites\\errors\\vendor\\composer/../../app/functions.php') C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:56
+[03-Apr-2018 22:03:59 America/Chicago] PHP Fatal error:  composerRequireb4d7791401ba7416ca4279b34130bac5(): Failed opening required 'C:\Users\drebo\Documents\sites\errors\vendor\composer/../../app/functions.php' (include_path='.;C:\php\pear') in C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php on line 66
+[03-Apr-2018 22:03:59 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:03:59 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:03:59 America/Chicago] PHP   2. require_once() C:\Users\drebo\Documents\sites\errors\public\index.php:1
+[03-Apr-2018 22:03:59 America/Chicago] PHP   3. require_once() C:\Users\drebo\Documents\sites\errors\public\inc\head.php:3
+[03-Apr-2018 22:03:59 America/Chicago] PHP   4. require_once() C:\Users\drebo\Documents\sites\errors\config\config.php:5
+[03-Apr-2018 22:03:59 America/Chicago] PHP   5. ComposerAutoloaderInitb4d7791401ba7416ca4279b34130bac5::getLoader() C:\Users\drebo\Documents\sites\errors\vendor\autoload.php:7
+[03-Apr-2018 22:03:59 America/Chicago] PHP   6. composerRequireb4d7791401ba7416ca4279b34130bac5($fileIdentifier = 'cadc9c721433675b17f426e6ddd5daa4', $file = 'C:\\Users\\drebo\\Documents\\sites\\errors\\vendor\\composer/../../app/functions.php') C:\Users\drebo\Documents\sites\errors\vendor\composer\autoload_real.php:56
+[03-Apr-2018 22:05:18 America/Chicago] error_handler Undefined variable: debugbar in C:\Users\drebo\Documents\sites\errors\public\inc\head.php:20
+[03-Apr-2018 22:05:18 America/Chicago] ErrorException: exception_handlerUndefined variable: debugbar
+[03-Apr-2018 22:06:54 America/Chicago] error_handler Undefined variable: debugbar in C:\Users\drebo\Documents\sites\errors\public\inc\head.php:20
+[03-Apr-2018 22:06:54 America/Chicago] ErrorException: exception_handlerUndefined variable: debugbar
+[03-Apr-2018 22:08:01 America/Chicago] message
+[03-Apr-2018 22:08:01 America/Chicago] error_handler require_once(session.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\public\index.php:46
+[03-Apr-2018 22:08:01 America/Chicago] PHP Warning:  Uncaught ErrorException: require_once(session.php): failed to open stream: No such file or directory in C:\Users\drebo\Documents\sites\errors\public\index.php:46
+Stack trace:
+#0 C:\Users\drebo\Documents\sites\errors\public\index.php(46): error_handler(2, 'require_once(se...', 'C:\\Users\\drebo\\...', 46, Array)
+#1 C:\Users\drebo\Documents\sites\errors\public\index.php(46): require_once()
+#2 {main}
+  thrown in C:\Users\drebo\Documents\sites\errors\public\index.php on line 46
+[03-Apr-2018 22:08:01 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:08:01 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 22:08:01 America/Chicago] PHP Fatal error:  main(): Failed opening required 'session.php' (include_path='.;C:\php\pear') in C:\Users\drebo\Documents\sites\errors\public\index.php on line 46
+[03-Apr-2018 22:08:01 America/Chicago] PHP Stack trace:
+[03-Apr-2018 22:08:01 America/Chicago] PHP   1. {main}() C:\Users\drebo\Documents\sites\errors\public\index.php:0
+[03-Apr-2018 23:26:13 America/Chicago] message
+[03-Apr-2018 23:32:51 America/Chicago] message
+[03-Apr-2018 23:33:43 America/Chicago] message
+[03-Apr-2018 23:35:38 America/Chicago] message

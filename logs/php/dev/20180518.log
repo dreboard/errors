@@ -1,0 +1,57 @@
+[2018-05-17 19:12:07] basic.ERROR: Monolog\Logger error message [] []
+[2018-05-17 19:12:07] basic.WARNING: Monolog\Logger warning message [] []
+[2018-05-17 19:13:06] basic.ERROR: Monolog\Logger error message [] []
+[2018-05-17 19:13:06] basic.WARNING: Monolog\Logger warning message [] []
+[17-May-2018 19:13:36 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  23
+[17-May-2018 19:13:36 America/Chicago] E_WARNING 2 Use of undefined constant DEVELOPMENT_SITE - assumed 'DEVELOPMENT_SITE' (this will throw an Error in a future version of PHP)   |  In:  /var/www/html/app/ErrorHandler.php  |  On:  140
+
+[17-May-2018 19:15:13 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  23
+[17-May-2018 19:15:13 America/Chicago] E_WARNING 2 Use of undefined constant DEVELOPMENT_SITE - assumed 'DEVELOPMENT_SITE' (this will throw an Error in a future version of PHP)   |  In:  /var/www/html/app/ErrorHandler.php  |  On:  140
+
+[17-May-2018 19:29:30 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:29:30 America/Chicago] E_WARNING 2 Use of undefined constant DEVELOPMENT_SITE - assumed 'DEVELOPMENT_SITE' (this will throw an Error in a future version of PHP)   |  In:  /var/www/html/app/ErrorHandler.php  |  On:  140
+
+[17-May-2018 19:32:25 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:32:25 America/Chicago] E_WARNING 2 Use of undefined constant SITE_ENV - assumed 'SITE_ENV' (this will throw an Error in a future version of PHP)   |  In:  /var/www/html/app/ErrorHandler.php  |  On:  140
+
+[17-May-2018 19:33:11 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:36:29 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:48 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:48 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:49 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:49 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:50 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:50 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:51 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:51 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:52 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:52 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:53 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:53 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:53 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:54 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:54 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:55 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:55 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:56 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:56 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:57 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:37:57 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:40:42 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:40:47 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:43:38 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:49:47 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:49:53 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:51:51 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:52:07 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:52:08 America/Chicago] E_WARNING 2 Cannot modify header information - headers already sent by (output started at /var/www/html/app/ErrorHandler.php:141)   |  In:  /var/www/html/app/ErrorHandler.php  |  On:  144
+
+[17-May-2018 19:53:44 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:53:44 America/Chicago] E_WARNING 2 Cannot modify header information - headers already sent by (output started at /var/www/html/app/ErrorHandler.php:141)   |  In:  /var/www/html/app/ErrorHandler.php  |  On:  144
+
+[17-May-2018 19:55:30 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:58:57 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:59:53 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[17-May-2018 19:59:57 America/Chicago] Exception: Exception|Test me   |  In:  /var/www/html/config/config.php  |  On:  37
+[2018-05-17 20:01:26] basic.ERROR: Monolog\Logger error message [] []
+[2018-05-17 20:01:26] basic.WARNING: Monolog\Logger warning message [] []

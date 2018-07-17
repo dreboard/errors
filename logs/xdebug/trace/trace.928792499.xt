@@ -1,0 +1,13 @@
+TRACE START [2018-04-03 04:05:18]
+    0.0106     475464     -> fac($x = 7) C:\Users\drebo\Documents\sites\errors\index.php:18
+    0.0107     475464       -> fac($x = 6) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0108     475464         -> fac($x = 5) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0108     475464           -> fac($x = 4) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0109     475464             -> fac($x = 3) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0109     475464               -> fac($x = 2) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0109     475464                 -> fac($x = 1) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0110     475464                   -> fac($x = 0) C:\Users\drebo\Documents\sites\errors\index.php:16
+    0.0111     475464     -> xdebug_stop_trace() C:\Users\drebo\Documents\sites\errors\index.php:20
+    0.0111     475576
+TRACE END   [2018-04-03 04:05:18]
+
